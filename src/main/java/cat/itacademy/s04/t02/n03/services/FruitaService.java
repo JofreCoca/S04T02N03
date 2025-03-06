@@ -2,6 +2,7 @@ package cat.itacademy.s04.t02.n03.services;
 
 import cat.itacademy.s04.t02.n03.exception.FruitaNotFoundException;
 import cat.itacademy.s04.t02.n03.model.Fruita;
+//import documents.Fruit;
 import cat.itacademy.s04.t02.n03.repository.FruitaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
